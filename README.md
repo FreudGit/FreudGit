@@ -9,10 +9,10 @@ Please also look at the tech stack! :)<br>
  <br><br>
 
 
-My Repos:
-Github Big data (https://github.com/orgs/AEC-Programmeur-Big-data/repositories)
-Github Personnal (https://github.com/FreudGit/)
-Github College Maisonneuve (...)
+# My Repos:
+- Github Big data (https://github.com/orgs/AEC-Programmeur-Big-data/repositories)
+- Github Personnal (https://github.com/FreudGit/)
+- Github College Maisonneuve (...)
 
   
 # 💻 Tech Stack:
